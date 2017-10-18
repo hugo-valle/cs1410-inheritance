@@ -17,21 +17,23 @@ using namespace std;
 // Main Program
 int main()
 {
-	//Employee e1;
-	//e1.setData();
-	//e1.getData();
-	//Manager m1;
-	//m1.setData();
-	//m1.getData();
-	//Scientist s1;
-	//s1.setData();
-	//s1.getData();
+	/*
+	Employee e1;
+	e1.setData();
+	e1.getData();
+	Scientist s1;
+	s1.setData();
+	s1.getData();
 	Laborer l1;
 	l1.setData();
 	l1.getData();
 	Foreman f1;
 	f1.setData();
 	f1.getData();
+	 */
+	Manager m1;
+	m1.setData();
+	m1.getData();
 
 	return 0;
 }
